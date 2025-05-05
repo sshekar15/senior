@@ -17,5 +17,9 @@ Edit
 git clone https://github.com/sshekar15/your-repo-name.git
 Open index.html in your browser.
 
+Download iamges from and run in rpy: https://github.com/sshekar15/visualnovel
+
+
+
 
 
